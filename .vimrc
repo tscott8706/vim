@@ -1,3 +1,6 @@
+" 1. Install vim and git
+" 2. git clone https://github.com/VundleVim/Vundle.vim.git " ~/.vim/bundle/Vundle.vim
+" 3. vim +PluginInstall +qall
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
